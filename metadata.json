@@ -1,0 +1,6 @@
+{
+  "name": "Timor EduLibrary",
+  "description": "Offline-first digital textbook library for Ensino Básico 3º Ciclo (7º, 8º, 9º Ano) in Timor-Leste.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

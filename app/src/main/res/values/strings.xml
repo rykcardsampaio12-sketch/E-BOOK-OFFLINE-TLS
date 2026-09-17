@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Timor EduLibrary</string>
+    <string name="subtitle_ensino_basico">Ensino Básico - 3º Ciclo</string>
+    <string name="desc_offline_banner">Lee livru sira iha uma la presiza internet</string>
+</resources>
